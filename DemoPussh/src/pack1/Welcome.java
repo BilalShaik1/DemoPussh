@@ -6,6 +6,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Gprec");
 		System.out.println("Welcome to cse");
+		System.out.println("Welcome to Ecs");
 
 	}
 
